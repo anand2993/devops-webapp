@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e215fa79-7801-4f8c-9169-1ba3f23c4b83/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/anandtest453",
+    "appService.deploySubpath": "devopswebapp/Publish"
+}
